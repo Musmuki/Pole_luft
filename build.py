@@ -194,6 +194,11 @@ def main():
              f'des Deutschen Wetterdienstes und des Umweltbundesamts. Stand: {now:%d.%m.%Y, %H:%M} Uhr.</p>{lists}')
     (OUT / "index.html").write_text(page(SITE_NAME, "Pollenflug-Vorhersage und aktuelle Luftqualität für Orte in Deutschland, "
                                          "amtliche Daten, automatisch aktualisiert.", "/", index), encoding="utf-8")
+    static = ROOT / "static"   # e.g. the Google Search Console verification file
+    if static.exists():
+        for f in static.iterdir():
+            if f.is_file():
+                shutil.copy(f, OUT / f.name)
     if SITE_URL:
         urls = [f"{SITE_URL}/"] + [f"{SITE_URL}/{c['slug']}/" for c in built]
         (OUT / "sitemap.xml").write_text('<?xml version="1.0" encoding="UTF-8"?><urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'
