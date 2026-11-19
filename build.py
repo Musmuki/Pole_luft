@@ -21,7 +21,9 @@ TZ = ZoneInfo("Europe/Berlin")
 UA = {"User-Agent": "pollen-luft-site/0.2"}
 ROOT = Path(__file__).parent
 OUT = ROOT / "site"
-SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
+# GitHub Pages passes SITE_URL; Cloudflare Pages provides CF_PAGES_URL at build time.
+# Explicit SITE_URL wins when switching to a custom domain.
+SITE_URL = (os.environ.get("SITE_URL") or os.environ.get("CF_PAGES_URL") or "").rstrip("/")
 SITE_NAME = "Pollen & Luft heute"
 BASE = os.environ.get("BASE_PATH", "").rstrip("/")   # e.g. /Pole_luft on GitHub Pages
 
@@ -108,7 +110,7 @@ footer{color:var(--muted);font-size:.85rem}a{color:inherit}nav{margin-bottom:16p
 
 FOOTER = """<footer><p>Quellen: <a href="https://opendata.dwd.de/climate_environment/health/alerts/">DWD Pollenflug-Gefahrenindex</a>,
 <a href="https://www.umweltbundesamt.de/daten/luft/luftdaten">Umweltbundesamt Luftdaten</a>.
-Keine medizinische Beratung. Diese Seite speichert keine Daten über Besucher und setzt keine Cookies.</p></footer>"""
+Keine medizinische Beratung. Diese Website verwendet selbst kein Besuchertracking und setzt keine Cookies. Beim Hosting können technisch erforderliche Verbindungsdaten verarbeitet werden.</p></footer>"""
 
 
 def page(title, description, path, body):
