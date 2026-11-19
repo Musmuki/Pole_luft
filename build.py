@@ -122,7 +122,7 @@ def page(title, description, path, body):
 def city_page(city, pol, pollen_updated, air, now):
     name = city["name"]
     days = [now.date() + timedelta(days=i) for i in range(3)]
-    body = [f'<nav><a href="{BASE}/">Alle Städte</a></nav><h1>Pollenflug und Luftqualität in {html.escape(name)}</h1>',
+    body = [f'<nav><a href="{BASE}/">Alle Städte</a></nav><h1>{"Pollenflug und Luftqualität" if pol else "Luftqualität"} in {html.escape(name)}</h1>',
             f'<p class="sub">Amtliche Daten, automatisch aktualisiert. Stand: {now:%d.%m.%Y, %H:%M} Uhr.</p>']
     if pol:
         head = "".join(f"<th>{['Heute', 'Morgen', 'Übermorgen'][i]}<br><small>{WD[d.weekday()]} {d:%d.%m.}</small></th>"
@@ -143,9 +143,13 @@ def city_page(city, pol, pollen_updated, air, now):
                     f'{" (noch nicht alle Werte gemeldet)" if a["incomplete"] else ""}</p><ul class="parts">{parts}</ul>'
                     f'<p class="meta">Umweltbundesamt, Luftqualitätsindex (fünf Stufen von „sehr gut“ bis „sehr schlecht“). '
                     f'Die Gesamtstufe richtet sich nach dem schlechtesten gemessenen Stoff.</p></section>')
-    desc = (f"Pollenflug-Vorhersage und aktuelle Luftqualität für {name}: amtliche Daten von DWD und Umweltbundesamt, "
-            f"automatisch aktualisiert.")
-    return page(f"Pollenflug und Luftqualität heute in {name}", desc, f"/{city['slug']}/", "".join(body))
+    if pol:
+        title = f"Pollenflug und Luftqualität heute in {name}"
+        desc = f"Pollenflug-Vorhersage (DWD) und aktuelle Luftqualität (Umweltbundesamt) für {name}, automatisch aktualisiert."
+    else:   # do not promise pollen where no region could be assigned
+        title = f"Luftqualität heute in {name}"
+        desc = f"Aktuelle Luftqualität in {name}: Messwerte des Umweltbundesamts, stündlich aktualisiert."
+    return page(title, desc, f"/{city['slug']}/", "".join(body))
 
 
 def main():
