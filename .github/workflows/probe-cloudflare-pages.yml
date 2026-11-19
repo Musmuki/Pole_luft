@@ -1,0 +1,38 @@
+name: Probe Cloudflare Pages
+on:
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/probe-cloudflare-pages.yml'
+permissions:
+  contents: read
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 3
+    steps:
+      - name: Verify published HTML and sitemap
+        run: |
+          python3 - <<'PY'
+          import urllib.request, json, sys
+          base = "https://pole-luft.pages.dev"
+          checks = [
+            ("/", ["<html", "Pollen"]),
+            ("/sitemap.xml", ["<urlset"]),
+          ]
+          failed = False
+          for path, needles in checks:
+            try:
+              req = urllib.request.Request(base + path, headers={"User-Agent":"PoleLuftProbe/1.0"})
+              with urllib.request.urlopen(req, timeout=15) as response:
+                data = response.read(12000).decode("utf-8", "replace")
+                ok = response.status == 200 and all(x.lower() in data.lower() for x in needles)
+                print(json.dumps({"path":path,"http":response.status,"valid":ok,"preview":data[:140]}))
+                failed |= not ok
+            except Exception as exc:
+              print(json.dumps({"path":path,"error":str(exc)}))
+              failed = True
+          if failed:
+            sys.exit(1)
+          PY
