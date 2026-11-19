@@ -23,6 +23,7 @@ ROOT = Path(__file__).parent
 OUT = ROOT / "site"
 SITE_URL = os.environ.get("SITE_URL", "").rstrip("/")
 SITE_NAME = "Pollen & Luft heute"
+BASE = os.environ.get("BASE_PATH", "").rstrip("/")   # e.g. /Pole_luft on GitHub Pages
 
 POLLEN = [("Hasel", "Hasel"), ("Erle", "Erle"), ("Esche", "Esche"), ("Birke", "Birke"),
           ("Graeser", "Gräser"), ("Roggen", "Roggen"), ("Beifuss", "Beifuß"), ("Ambrosia", "Ambrosia")]
@@ -121,7 +122,7 @@ def page(title, description, path, body):
 def city_page(city, pol, pollen_updated, air, now):
     name = city["name"]
     days = [now.date() + timedelta(days=i) for i in range(3)]
-    body = [f'<nav><a href="/">Alle Städte</a></nav><h1>Pollenflug und Luftqualität in {html.escape(name)}</h1>',
+    body = [f'<nav><a href="{BASE}/">Alle Städte</a></nav><h1>Pollenflug und Luftqualität in {html.escape(name)}</h1>',
             f'<p class="sub">Amtliche Daten, automatisch aktualisiert. Stand: {now:%d.%m.%Y, %H:%M} Uhr.</p>']
     if pol:
         head = "".join(f"<th>{['Heute', 'Morgen', 'Übermorgen'][i]}<br><small>{WD[d.weekday()]} {d:%d.%m.}</small></th>"
@@ -183,7 +184,7 @@ def main():
     for c in built:
         by_state.setdefault(c["state_name"], []).append(c)
     lists = "".join(f'<section><h2>{html.escape(s)}</h2><ul class="cities">'
-                    + "".join(f'<li><a href="/{c["slug"]}/">{html.escape(c["name"])}</a></li>' for c in sorted(cs, key=lambda c: c["name"]))
+                    + "".join(f'<li><a href="{BASE}/{c["slug"]}/">{html.escape(c["name"])}</a></li>' for c in sorted(cs, key=lambda c: c["name"]))
                     + "</ul></section>" for s, cs in sorted(by_state.items()))
     index = (f'<h1>Pollenflug und Luftqualität heute</h1><p class="sub">Für {len(built)} Orte in Deutschland, aus den offenen Daten '
              f'des Deutschen Wetterdienstes und des Umweltbundesamts. Stand: {now:%d.%m.%Y, %H:%M} Uhr.</p>{lists}')
