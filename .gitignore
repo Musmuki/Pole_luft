@@ -1,0 +1,5 @@
+site/
+__pycache__/
+*.pyc
+data/PIRO_TASK.md
+data/regions.json.draft
