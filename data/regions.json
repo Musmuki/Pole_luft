@@ -1,0 +1,3824 @@
+{
+ "BB|Amt Belzig, Gemeinde Lütte": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Bad Belzig": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Bad Muskau": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Beerenbusch": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Bernau": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Boxberg/Oberlausitz": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Brandenburg": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Buckow": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Cottbus": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Cumlosen": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Eisenhüttenstadt": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Elsterwerda": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Falkensee": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Forst (Lausitz)": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Frankfurt (Oder)": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Heinersbrück": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Hohenwutzen": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Joachimsthal": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Kienhorst": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Kleinmachnow": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Luckenwalde": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Mahlow": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Natteheide": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Nauen": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Neu Zauche": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Neuruppin": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Neusorgefeld": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Oranienburg": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Potsdam": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Potsdam-Babelsberg": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Rüdersdorf bei Berlin": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Schenkendöbern-Atterwasch": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Schipkau": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Schwarzheide": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Schwedt/Oder": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Siedichum, Dammendorf": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Spremberg": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Weizgrund": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Wildau": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Wittenberge": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BB|Zehdenick": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BE|Berlin": {
+  "region_id": 50,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "BW|Aalen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Altensteig": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Bad Wurzach/Willis": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Baden-Baden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Badenweiler": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Bernhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Biberach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Brunnenholzried": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Eggenstein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Erpfingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Esslingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Freiburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Friedrichshafen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Fronhofen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Gaildorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Großrinderfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Grubenhau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Gärtringen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Hartheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Heidelberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Heilbronn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Isny": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Isny/Rohrdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Jettingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Karlsruhe": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Kehl": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Konstanz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Leimen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Ludwigsburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Löffingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Mannheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Mudau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Möhringen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Mühlacker": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Münstertal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Neckarwestheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Neuenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Ochsenhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Ochsenhausen-Steinhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Pforzheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Reutlingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Rotenfels": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Schnittlingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Schramberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Schwäbisch Hall": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Schönbruch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Stegen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Stuttgart": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Tauberbischofsheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Tübingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Ulm": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Villingen-Schwenningen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Weil am Rhein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Welzheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BW|Wiesloch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Aiterhofen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Altdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Altötting": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Andechs, Gde.teil Rothenfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Ansbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Anzing": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Arzberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Aschaffenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Aschheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Augsburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bad Brückenau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bad Hindelang, Gde.teil Oberjoch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bad Hindelang, Gde.teil Unterjoch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bad Reichenhall,Kirchholzstraße": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bamberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bayreuth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Berchtesgaden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bidingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Bischbrunn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Burgbernheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Burghausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Dinkelsbühl": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Ebersberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Ebrach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Eining": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Erlangen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Flossenbürg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Freising": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Fürth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Garmisch-Partenkirchen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Goldkronach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Grassau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Hemau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Hof": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Hohenpeissenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Höglwald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Ingolstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Kempten (Allgäu)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Kleinwallstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Kreuth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Kulmbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Landshut": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Lautrach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Lenggries": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Lindau (Bodensee)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Mehring": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Mitterfels": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Möhrendorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|München": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|München, Stadtteil Johanneskirchen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Naila": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Neu-Ulm": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Neustadt a.d. Aisch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Neustadt a.d. Donau, Gde.teil Eining": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Nürnberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Nürnberg, Stadtteil Muggenhof": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Oberaudorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Oberschleißheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Oettingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Passau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Regen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Regensburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Riedenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Rothenbuch": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Rothenkirchen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Saal a.d. Donau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Sankt Oswald-Riedlhütte": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Schmiechen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Schwabach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Schwandorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Schweinfurt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Sonthofen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|St Oswald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Sulzbach-Rosenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Tiefenbach, Gde.teil Altenschneeberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Trostberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Vohburg a.d. Donau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Waldstein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Wallerfing": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Weiden i.d.OPf.": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Würzburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|Zell": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "BY|gemeindefreier Staatsforst": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HB|Bremen": {
+  "region_id": 30,
+  "partregion_id": 31,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "HB|Bremerhaven": {
+  "region_id": 30,
+  "partregion_id": 31,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "HE|Alsfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Bebra": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Bensheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Breitenbach am Herzberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Darmstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Edertal-Hemfurth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Feldatal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Frankfurt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Frankfurt am Main": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Frankfurt- Mitte": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Frankfurt/M": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Frankfurt/Main": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Freifläche im Wald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Fulda": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Fürth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Fürth/Odenwald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Gießen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Glashütten": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Großkrotzenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Hainburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Hanau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Heppenheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Hessisches Ried": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Homberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Hünfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Jossgrund": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Kassel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Kellerwald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Krofdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Limburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Linden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Marburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Michelstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Mücke": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Mühltal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Offenbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Raunheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Riedstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Rüsselsheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Schlangenbad-Wambach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Stadtallendorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Ulrichstein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Wasserkuppe": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Weiterstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Wetzlar": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Wiesbaden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Witzenhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Witzenhausen/Wald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HE|Zierenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "HH|Hamburg": {
+  "region_id": 10,
+  "partregion_id": 12,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Altenhagen": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Anklam": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Garz": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Groß Lüsewitz": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Göhlen": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Gülzow": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Güstrow": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Jarmen": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Lelkendorf": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Mewegen": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Minzow, OT Woldzegarten": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Neubrandenburg": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Pasewalk": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Reinkenhagen": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Rostock": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Rostock - Warnemünde": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Rostock-Stuthof": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Rostock-Warnemünde": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Rothemühl": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Sandhof": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Sarnow": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Schwerin": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Stralsund": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Torgelow / Rothemuehl": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Wismar": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "MV|Zarrentin": {
+  "region_id": 20,
+  "partregion_id": -1,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "NI|Achim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Ankum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Augustendorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Bad Bentheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Bad Lauterberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Baltrum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Barnstorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Berge": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Bersenbrück": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Binnen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Braunlage": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Braunschweig": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Brockel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Bösel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Bühren": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Cuxhaven": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Diekholzen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Dinklage": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Drangstedt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Duderstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Edewecht": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Ehrhorn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Emden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Friedeburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Friesoythe": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Gleichen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Gorleben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Goslar": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Gristede": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Göttingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hagen am Teutoburger Wald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hameln": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Handeloh": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hannover": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Heinbockel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hesedorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hildesheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Holste": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hornburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Hude (Oldenburg)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Jork": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Jühnde": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Kalefeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Kirchdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Königslutter (Elm)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lange Bramke": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lehre": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lingen (Ems)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Luess": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lüchow": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lüchow (Wendland)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lüder": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Lüneburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Melle": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Merxhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Molbergen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Nordenham": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Norderney": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Northeim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Oldenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Osnabrück": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Osterholz-Scharmbeck": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Ovelgönne": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Riefensbeek (Harz)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Rinteln": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Rodewald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Rosche": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Rosengarten": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Salzgitter": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Scharnebeck": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Schladen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Schneverdingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Schwaförden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Seesen-Hohestein (Harz)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Solling": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Soltau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Stadthagen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Steinfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Stoetze": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Unterlüß": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Uplengen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Uslar, OT Schönhagen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Walsrode": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wedemark": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wilhelmshaven": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wilsum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wingst": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wittingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NI|Wolfsburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Aachen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Altenbeeken": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Bielefeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Bochum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Bonn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Borken": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Bottrop": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Castrop-Rauxel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Datteln": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Dinslaken": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Dortmund": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Duisburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Duisburg-Ehingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Düren": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Düsseldorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Emmerich": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Erndtebrück": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Erntebrück": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Eschweiler": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Essen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Gelsenkirchen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Gladbeck": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Grevenbroich": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Hagen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Halle": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Haltern": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Hattingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Herne": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Hürth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Jackerath": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Jüchen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Kleve": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Kranenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Krefeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Köln": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Lammersdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Langenfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Leverkusen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Lüdenscheid": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Lünen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Marl": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Mettmann": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Mönchengladbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Mülheim": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Münster": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Netphen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Nettetal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Neuss": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Niederzier": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Oberhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Overath": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Paderborn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Ratingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Recklinghausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Remscheid": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Roetgen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Schwerte": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Siegen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Simmerath": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Soest": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Solingen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Stolberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Unna": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Warstein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Wesel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Wipperfürth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Witten": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "NW|Wuppertal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Adenau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Bad Ems": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Bad Kreuznach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Braubach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Buchholz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Dunzweiler": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Frankenthal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Gondenbrett": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Hagenbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Herdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Hermeskeil": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Hortenkopf/Weissenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Johanniskreuz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Kaiserslautern": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Kirchheimbolanden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Koblenz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Koblenz-Metternich": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Koblenz-Rübenach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Leisel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Ludwigshafen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Mainz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Mayen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Merzalben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Montabaur": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Neuhaeusel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Neuhäusel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Neuwied": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Pirmasens": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Schaidt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Siesbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Speyer": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Trier": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Wascheid": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Worms": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "RP|Wörth": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Altendeich": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Barsbüttel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Bokhorst": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Bornhöved": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Brunsbüttel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Eggebek": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Eutin": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Fehmarn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Flensburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Haale": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Hahnheide": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Hennstedt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Itzehoe": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Kiel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Lauenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Lindhof": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Lübeck": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Norderstedt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Rantzau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Reußenköge": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Ruhwinkel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Satrup": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Schuby": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|St. Peter Ording": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Süderlügum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SH|Wallnau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SL|Altheim": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Bildstock": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Dillingen": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Eft-Hellendorf": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Fischbach": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Jägersburg": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Mettlach": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Ormesheim": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Ottweiler": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Rehlingen-Siersburg": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Saarbrücken": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Saarlouis": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Von der Heydt": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Völklingen": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SL|Warndt": {
+  "region_id": 100,
+  "partregion_id": 103,
+  "source": "DWD s31fg.json: the whole state forms one pollen region (or the part region is named after it)",
+  "sure": true
+ },
+ "SN|Altenberg, GT Hirschsprung": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Annaberg-Buchholz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Aue-Bad Schlema": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Bad Gottleuba-Berggießhübel": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Bad Muskau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Bad Schandau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Bautzen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Bischofswerda": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Borna": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Carlsfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Chemnitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Colditz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Dresden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Eibenstock": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Freiberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Freital": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Gelenau/Erzgeb.": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Grimma, OT Keiselwitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Großschönau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Gröditz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Görlitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Heidenau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Hochkirch, OT Wuischke": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Kamenz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Kirnitzschtal, OT Ottendorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Klingenthal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Laußnitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Leipzig": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Liebschützberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Löbau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Marienberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Melpitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Mittelndorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Muldenhammer, OT Morgenröthe-Rautenkranz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Netzschkau OT Brockau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Neuhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Neuhausen/Erzgebirge": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Oberwiesenthal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Olbernhau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Oschatz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Ostritz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Oybin": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Pirna": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Plauen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Pockau-Lengefeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Radebeul": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Riesa": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Rosenthal-Bielatal, OT Rosenthal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Rossau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Rötha": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Schkeuditz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Sehmatal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Sproitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Zinnwald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Zittau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "SN|Zwickau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Aschersleben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Bad Schmiedeberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Bernburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Braunsbedra-Großkayna": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Burg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Dornbock (Bobbe)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Elbingerode (Harz)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Friedrichsbrunn": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Greppin": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Halberstadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Haldensleben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Halle": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Halle (Saale)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Halle/Saale": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Hanum": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Klötze": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Leuna": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Lutherstadt Wittenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Magdeburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Mansfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Merseburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Mücheln": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Nedlitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Oschersleben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Oschersleben (Bode)": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Osterburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Osternienburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Roßla": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Roßlau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Saaleschleuse": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Schierke": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Schkopau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Sommersdorf": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Stendal": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Südharz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Teuchern": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Weißenfels": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Wernigerode": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Wettin-Löbejün": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Wittenberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "ST|Zeitz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Altenburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Apolda": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Bad Liebenstein": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Dreißigacker": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Eisenach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Erfurt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Arndtadt": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Bleicherode-Südharz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Frauenwald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Heldburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Marksuhl": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Oberhof": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Oldisleben": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Paulinzella": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Schleiz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Stadtroda": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|FoA Weida": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Gera": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Greiz": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Hummelshain": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Ilmenau": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Jena": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Kyffhäuserland": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Meiningen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Mühlhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Nationalpark Hainich": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Neuhaus": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Nordhausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Ronneburg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Saalfeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Schmalkalden": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Schmiedefeld": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Sondershausen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Sonneberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Springen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Suhl": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Weimar": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "TH|Zella-Mehlis": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Deuselbach": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Gehlberg": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Langen": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Lüder-Langenbrügge": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Neuglobsow": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Oberried-Hofsgrund": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Sankt Oswald": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Westerland": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Zingst": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ },
+ "UB|Zugspitze": {
+  "region_id": null,
+  "partregion_id": null,
+  "source": "DWD publishes no official district list for its part regions (checked 2026-11-19, see PIRO_SOURCE.md); not guessed",
+  "sure": false
+ }
+}
