@@ -38,3 +38,18 @@ jobs:
           path: site
       - id: deployment
         uses: actions/deploy-pages@v4
+      # Cloudflare Pages Free build allowance is limited; trigger scheduled deploys every 2 hours.
+      - name: Trigger Cloudflare Pages rebuild (optional)
+        env:
+          CLOUDFLARE_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
+          EVENT_NAME: ${{ github.event_name }}
+        run: |
+          if [ -z "$CLOUDFLARE_DEPLOY_HOOK" ]; then
+            echo "No Cloudflare Pages hook configured; GitHub Pages remains active."
+            exit 0
+          fi
+          if [ "$EVENT_NAME" = "schedule" ] && [ "$((10#$(date -u +%H) % 2))" -ne 0 ]; then
+            echo "Skipped odd-hour rebuild to stay under Cloudflare Pages free build quota."
+            exit 0
+          fi
+          curl --fail --silent --show-error --max-time 20 -X POST "$CLOUDFLARE_DEPLOY_HOOK"
