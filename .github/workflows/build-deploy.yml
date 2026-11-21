@@ -1,8 +1,8 @@
 name: Refresh Cloudflare Pages
 
-# The site lives only on Cloudflare Pages (pole-luft.pages.dev), which builds on every push itself.
-# New DWD/UBA data needs a rebuild without a push: this job calls the Cloudflare deploy hook every 2 hours
-# (Cloudflare Pages Free allows 500 builds/month; every 2 h is ~360).
+# Cloudflare builds the site from GitHub. Rebuild every two hours to refresh DWD/UBA data.
+# Prefer the optional Cloudflare deploy hook; without it, push a harmless timestamp
+# to main so Cloudflare's Git integration triggers a fresh build.
 
 on:
   schedule:
@@ -10,7 +10,11 @@ on:
   workflow_dispatch:
 
 permissions:
-  contents: read
+  contents: write
+
+concurrency:
+  group: cloudflare-refresh
+  cancel-in-progress: false
 
 jobs:
   refresh:
@@ -21,9 +25,25 @@ jobs:
         env:
           CLOUDFLARE_DEPLOY_HOOK: ${{ secrets.CLOUDFLARE_PAGES_DEPLOY_HOOK }}
         run: |
-          if [ -z "$CLOUDFLARE_DEPLOY_HOOK" ]; then
-            echo "::error::Secret CLOUDFLARE_PAGES_DEPLOY_HOOK is missing; the site is not refreshed."
-            exit 1
+          if [ -n "$CLOUDFLARE_DEPLOY_HOOK" ]; then
+            curl --fail --silent --show-error --max-time 20 -X POST "$CLOUDFLARE_DEPLOY_HOOK" > /dev/null
+            echo "Cloudflare deploy hook accepted."
+          else
+            echo "No deploy hook configured; triggering rebuild via Git push."
+            echo "USE_GIT_FALLBACK=true" >> "$GITHUB_ENV"
           fi
-          curl --fail --silent --show-error --max-time 20 -X POST "$CLOUDFLARE_DEPLOY_HOOK" > /dev/null
-          echo "Cloudflare rebuild triggered."
+      - name: Checkout repository for fallback
+        if: env.USE_GIT_FALLBACK == 'true'
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+      - name: Trigger Cloudflare Git-integrated build
+        if: env.USE_GIT_FALLBACK == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          date -u +"%Y-%m-%dT%H:%M:%SZ" > .cloudflare-refresh
+          git add .cloudflare-refresh
+          git commit -m "chore: refresh air and pollen data [skip ci]"
+          git push origin HEAD:main
+          echo "Pushed refresh marker; Cloudflare Git integration should rebuild."
